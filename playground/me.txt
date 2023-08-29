@@ -1,5 +1,0 @@
-{{#user}}
-Name: Bhav Kushwaha
-Skills: HTML, CSS, JS, React.js
-Email: bhavkushwaha@gmail.com
-{{/user}}
